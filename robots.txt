@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vafrhg.antam89.site/sitemap.xml
